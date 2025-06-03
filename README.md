@@ -125,7 +125,11 @@ EFI/
 
 ## 📸 Screenshots
 
-> *(Add `About This Mac`, `Hackintool`, or `System Info` screenshots here to showcase your setup)*
+### Desktop
+![Desktop](Screenshots/Rice.png)
+
+### The Machine
+![ThinkPad T14s Gen 1](Screenshots/ThinkbookPro.webp)
 
 ---
 

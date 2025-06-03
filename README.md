@@ -1,7 +1,7 @@
 
-# 🍏 Lenovo ThinkPad T14s Gen 1 Hackintosh EFI (macOS Monterey)
+# 🍏 Lenovo ThinkPad T14s Gen 1 Hackintosh EFI (macOS Monterey 12.7.6)
 
-This repository contains a fully working **OpenCore 1.0.4** EFI for the **Lenovo ThinkPad T14s Gen 1** with an Intel i7-10610U processor. It is tested and confirmed functional with **macOS Monterey**, with working iServices (iMessage, FaceTime, iCloud, etc.), proper GPU acceleration, battery management, and more.
+This repository contains a fully working **OpenCore 1.0.4** EFI for the **Lenovo ThinkPad T14s Gen 1** with an Intel i7-10610U processor. It is tested and confirmed functional with **macOS Monterey 12.7.6**, with working iServices (iMessage, FaceTime, iCloud, etc.), proper GPU acceleration, battery management, and more.
 
 ---
 
@@ -17,7 +17,7 @@ This repository contains a fully working **OpenCore 1.0.4** EFI for the **Lenovo
 | Trackpad        | PS2 Trackpad + TrackPoint        |
 | SMBIOS          | MacBookPro16,3                   |
 | Bootloader      | OpenCore 1.0.4                   |
-| macOS Version   | Monterey                         |
+| macOS Version   | Monterey 12.7.6                         |
 
 ---
 
@@ -116,7 +116,7 @@ EFI/
 
 ## 🔧 Post-Install Notes
 
-- This EFI is tailored for **macOS Monterey**. It may work on later versions (Sonoma, Sequoia), but is **untested**.
+- This EFI is tailored for **macOS Monterey 12.7.6**. It may work on later versions (Sonoma, Sequoia), but is **untested**.
 - Before using iServices, make sure to generate your own serial numbers using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 - Keep a backup of your current EFI on a USB in case a macOS update causes a boot issue.
 - You can reset NVRAM in the OpenCore boot picker by pressing the spacebar and selecting **Reset NVRAM**.

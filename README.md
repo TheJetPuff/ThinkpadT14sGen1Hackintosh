@@ -138,4 +138,4 @@ EFI/
 
 ---
 
-Feel free to fork, tweak, and use — but please don’t resell or redistribute as a prebuilt package.
+Feel free to fork, tweak, and use!
